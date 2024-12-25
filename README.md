@@ -6,10 +6,8 @@ Discover Béziers is a specialized local tourism app designed to showcase the be
 
 ## ✨ Preview
 
-![Image 1](https://cdn.discordapp.com/attachments/1217649751630286949/1321592024662544434/IMG_3307.png?ex=676dcbfc&is=676c7a7c&hm=f640cc50c7dfa4dc77b5b5c5375d7b31a398f0a5b4af10ad935b61b61b116d48)
-![Image 2](https://cdn.discordapp.com/attachments/1217649751630286949/1321592024129998890/IMG_3308.png?ex=676dcbfc&is=676c7a7c&hm=7b18a564fb5bd4816ea13e95b3bfa49492647cb789ac1795dff6cca685f67a4d)
-![Image 3](https://cdn.discordapp.com/attachments/1217649751630286949/1321592023546986537/IMG_3309.png?ex=676dcbfc&is=676c7a7c&hm=5856ae1413abb962d320c2c2cdca4fbef52e3491b316a99c2f0a5c6ef0e2ea6b)
-![Image 4](https://cdn.discordapp.com/attachments/1217649751630286949/1321592023094005870/IMG_3310.png?ex=676dcbfc&is=676c7a7c&hm=7788563a0742eacb5c7050474140256cd5a9d8e559bc29c0c8b0ed0ef7065db2)
+![Aspen Travel App Design](https://cdn.discordapp.com/attachments/1217649751630286949/1321593629487267860/Aspen_Travel_App_Exploration-_Mobile_App_Design.png?ex=676dcd7b&is=676c7bfb&hm=771732033ede5ff1690995ba6e5052fd6406573e18be537cded437b12d111860)
+
 
 
 ### 🗺️ Local Map Experience
