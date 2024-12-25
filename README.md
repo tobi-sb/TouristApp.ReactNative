@@ -59,19 +59,6 @@ Discover Béziers is a specialized local tourism app designed to showcase the be
   - Coastal Areas
   - Local Attractions
 
-## 🤝 Contributing
-Interested in contributing? We're happy to review suggestions for:
-- New local spots
-- Feature improvements
-- Bug fixes
-- Documentation
 
-## 📞 Contact
-[Your contact information]
-
-## 📜 License
-[Your chosen license]
-
----
 
 Made with ❤️ in Béziers 🇫🇷
