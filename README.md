@@ -6,8 +6,8 @@ Discover Béziers is a specialized local tourism app designed to showcase the be
 
 ## ✨ Preview
 
-![Christmas Animation]([https://cdn.discordapp.com/attachments/1217649751630286949/1321199078280925254/Fun.PNG?ex=676c5e06&is=676b0c86&hm=d2a9c79a58881710fa260661089f7d327dca1f7ed5e78e483e592138c131a22f&](https://cdn.discordapp.com/attachments/1217649751630286949/1321592024662544434/IMG_3307.png?ex=676dcbfc&is=676c7a7c&hm=f640cc50c7dfa4dc77b5b5c5375d7b31a398f0a5b4af10ad935b61b61b116d48&))
-![Christmas Animation]([https://cdn.discordapp.com/attachments/1217649751630286949/1321199078280925254/Fun.PNG?ex=676c5e06&is=676b0c86&hm=d2a9c79a58881710fa260661089f7d327dca1f7ed5e78e483e592138c131a22f&](https://cdn.discordapp.com/attachments/1217649751630286949/1321592024662544434/IMG_3307.png?ex=676dcbfc&is=676c7a7c&hm=f640cc50c7dfa4dc77b5b5c5375d7b31a398f0a5b4af10ad935b61b61b116d48&))
+![Christmas Animation]([https://cdn.discordapp.com/attachments/1217649751630286949/1321199078280925254/Fun.PNG?ex=676c5e06&is=676b0c86&hm=d2a9c79a58881710fa260661089f7d327dca1f7ed5e78e483e592138c131a22f&)
+![Christmas Animation]([https://cdn.discordapp.com/attachments/1217649751630286949/1321199078280925254/Fun.PNG?ex=676c5e06&is=676b0c86&hm=d2a9c79a58881710fa260661089f7d327dca1f7ed5e78e483e592138c131a22f&])
 ![Christmas Animation]([https://cdn.discordapp.com/attachments/1217649751630286949/1321199078280925254/Fun.PNG?ex=676c5e06&is=676b0c86&hm=d2a9c79a58881710fa260661089f7d327dca1f7ed5e78e483e592138c131a22f&](https://cdn.discordapp.com/attachments/1217649751630286949/1321592024662544434/IMG_3307.png?ex=676dcbfc&is=676c7a7c&hm=f640cc50c7dfa4dc77b5b5c5375d7b31a398f0a5b4af10ad935b61b61b116d48&))
 ![Christmas Animation]([https://cdn.discordapp.com/attachments/1217649751630286949/1321199078280925254/Fun.PNG?ex=676c5e06&is=676b0c86&hm=d2a9c79a58881710fa260661089f7d327dca1f7ed5e78e483e592138c131a22f&](https://cdn.discordapp.com/attachments/1217649751630286949/1321592024662544434/IMG_3307.png?ex=676dcbfc&is=676c7a7c&hm=f640cc50c7dfa4dc77b5b5c5375d7b31a398f0a5b4af10ad935b61b61b116d48&))
 
