@@ -6,7 +6,7 @@ Discover Béziers is a specialized local tourism app designed to showcase the be
 
 ## ✨ Preview
 
-![Aspen Travel App Design](https://images-tobi.s3.eu-north-1.amazonaws.com/Capture+d%E2%80%99%C3%A9cran+2024-03-28+135845.png)
+![Aspen Travel App Design](https://images-tobi.s3.eu-north-1.amazonaws.com/deliveroo.png)
 
 
 
